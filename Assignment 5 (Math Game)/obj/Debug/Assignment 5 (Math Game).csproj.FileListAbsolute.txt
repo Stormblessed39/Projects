@@ -1,0 +1,19 @@
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\bin\Debug\Assignment 5 (Math Game).exe.config
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\bin\Debug\Assignment 5 (Math Game).exe
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\bin\Debug\Assignment 5 (Math Game).pdb
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game).csprojAssemblyReference.cache
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\MainWindow.g.cs
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\App.g.cs
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game)_MarkupCompile.cache
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game)_MarkupCompile.lref
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\MainWindow.baml
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game).g.resources
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment_5__Math_Game_.Properties.Resources.resources
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game).csproj.GenerateResource.cache
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game).csproj.CoreCompileInputs.cache
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game).exe
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\Assignment 5 (Math Game).pdb
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\wndGameForm.g.cs
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\wndGameForm.baml
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\wndScoreForm.g.cs
+C:\Users\jedii\source\repos\Assignment 5 (Math Game)\obj\Debug\wndScoreForm.baml

@@ -1,0 +1,20 @@
+﻿<Window x:Class="Assignment_5__Math_Game_.wndGameForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment_5__Math_Game_"
+        mc:Ignorable="d"
+        Title="wndGameForm" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Background="Black">
+        <Label x:Name="lblQuestion" Content="What is the answer?" HorizontalAlignment="Left" Margin="81,137,0,0" VerticalAlignment="Top" Background="#FFC0C58C" Height="69" Width="373" FontSize="40"/>
+        <TextBox x:Name="txtAnswer" HorizontalAlignment="Left" Height="70" Margin="508,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" FontSize="40" IsEnabled="False"/>
+        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="307,331,0,0" VerticalAlignment="Top" Width="171" FontSize="40" Background="#FFC1E616" Foreground="Black" Click="btnSubmit_Click" IsDefault="True" Visibility="Hidden"/>
+        <Label x:Name="lblResult" Content="You got this!" HorizontalAlignment="Left" Margin="81,249,0,0" VerticalAlignment="Top" Background="#FFBCF148" FontSize="25"/>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="307,331,0,0" VerticalAlignment="Top" Width="171" FontSize="40" Background="#FFC1E616" Foreground="Black" IsDefault="True" Click="btnStart_Click"/>
+        <Label x:Name="lblTimer" Content="" HorizontalAlignment="Left" Margin="718,10,0,0" VerticalAlignment="Top" FontSize="20" Foreground="#FFCFEC17" FontFamily="Harvest" Width="64"/>
+        <Image HorizontalAlignment="Left" Height="119" Margin="263,0,0,0" VerticalAlignment="Top" Width="264" Source="Images/Luke.jpg"/>
+        <Label x:Name="lblNum" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FFE3FF30" FontSize="20"/>
+
+    </Grid>
+</Window>
