@@ -1,0 +1,15 @@
+C:\Users\jedii\source\repos\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\jedii\source\repos\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\jedii\source\repos\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\MainWindow.g.cs
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\App.g.cs
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\MainWindow.baml
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper.g.resources
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\jedii\source\repos\Minesweeper\obj\Debug\Minesweeper.pdb
