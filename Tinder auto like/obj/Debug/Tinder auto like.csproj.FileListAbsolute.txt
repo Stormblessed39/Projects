@@ -1,0 +1,7 @@
+C:\Users\jedii\source\repos\Tinder auto like\obj\Debug\Tinder auto like.csprojAssemblyReference.cache
+C:\Users\jedii\source\repos\Tinder auto like\obj\Debug\Tinder auto like.csproj.CoreCompileInputs.cache
+C:\Users\jedii\source\repos\Tinder auto like\bin\Debug\Tinder auto like.exe.config
+C:\Users\jedii\source\repos\Tinder auto like\bin\Debug\Tinder auto like.exe
+C:\Users\jedii\source\repos\Tinder auto like\bin\Debug\Tinder auto like.pdb
+C:\Users\jedii\source\repos\Tinder auto like\obj\Debug\Tinder auto like.exe
+C:\Users\jedii\source\repos\Tinder auto like\obj\Debug\Tinder auto like.pdb
